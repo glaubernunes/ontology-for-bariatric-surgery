@@ -14,39 +14,51 @@
 #    Object Properties
 #################################################################
 
-###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000188
-:OBS_0000188 rdf:type owl:ObjectProperty ;
+###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000170
+:OBS_0000170 rdf:type owl:ObjectProperty ;
              rdfs:subPropertyOf owl:topObjectProperty ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T23:01:36Z"^^xsd:dateTime ;
              rdfs:label "solicitado por"@pt .
 
 
-###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000189
-:OBS_0000189 rdf:type owl:ObjectProperty ;
+###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000171
+:OBS_0000171 rdf:type owl:ObjectProperty ;
              rdfs:subPropertyOf owl:topObjectProperty ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T23:01:36Z"^^xsd:dateTime ;
              rdfs:label "realizado por"@pt .
 
 
-###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000190
-:OBS_0000190 rdf:type owl:ObjectProperty ;
+###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000172
+:OBS_0000172 rdf:type owl:ObjectProperty ;
              rdfs:subPropertyOf owl:topObjectProperty ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T23:01:36Z"^^xsd:dateTime ;
              rdfs:label "possui comorbidade"@pt .
 
 
-###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000191
-:OBS_0000191 rdf:type owl:ObjectProperty ;
+###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000173
+:OBS_0000173 rdf:type owl:ObjectProperty ;
              rdfs:subPropertyOf owl:topObjectProperty ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T23:01:36Z"^^xsd:dateTime ;
              rdfs:label "possui habito"@pt .
 
 
-###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000192
-:OBS_0000192 rdf:type owl:ObjectProperty ;
+###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000174
+:OBS_0000174 rdf:type owl:ObjectProperty ;
              rdfs:subPropertyOf owl:topObjectProperty ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T23:01:36Z"^^xsd:dateTime ;
              rdfs:label "teve consulta"@pt .
 
 
-###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000193
-:OBS_0000193 rdf:type owl:ObjectProperty ;
+###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000175
+:OBS_0000175 rdf:type owl:ObjectProperty ;
              rdfs:subPropertyOf owl:topObjectProperty ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T23:01:36Z"^^xsd:dateTime ;
              rdfs:label "deu consulta"@pt .
 
 
@@ -54,87 +66,115 @@
 #    Data properties
 #################################################################
 
-###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000174
-:OBS_0000174 rdf:type owl:DatatypeProperty ;
-             rdfs:subPropertyOf owl:topDataProperty ;
-             rdfs:label "identificação do paciente"@pt .
-
-
-###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000175
-:OBS_0000175 rdf:type owl:DatatypeProperty ;
-             rdfs:subPropertyOf owl:topDataProperty ;
-             rdfs:label "sexo biológico do paciente"@pt .
-
-
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000176
 :OBS_0000176 rdf:type owl:DatatypeProperty ;
              rdfs:subPropertyOf owl:topDataProperty ;
-             rdfs:label "idade do paciente"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T23:02:33Z"^^xsd:dateTime ;
+             rdfs:label "identificação do paciente"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000177
 :OBS_0000177 rdf:type owl:DatatypeProperty ;
              rdfs:subPropertyOf owl:topDataProperty ;
-             rdfs:label "peso do paciente"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T23:02:33Z"^^xsd:dateTime ;
+             rdfs:label "sexo biológico do paciente"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000178
 :OBS_0000178 rdf:type owl:DatatypeProperty ;
              rdfs:subPropertyOf owl:topDataProperty ;
-             rdfs:label "altura do paciente"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T23:02:33Z"^^xsd:dateTime ;
+             rdfs:label "idade do paciente"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000179
 :OBS_0000179 rdf:type owl:DatatypeProperty ;
              rdfs:subPropertyOf owl:topDataProperty ;
-             rdfs:label "imc do paciente"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T23:02:33Z"^^xsd:dateTime ;
+             rdfs:label "peso do paciente"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000180
 :OBS_0000180 rdf:type owl:DatatypeProperty ;
              rdfs:subPropertyOf owl:topDataProperty ;
-             rdfs:label "hábitos do paciente"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T23:02:33Z"^^xsd:dateTime ;
+             rdfs:label "altura do paciente"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000181
 :OBS_0000181 rdf:type owl:DatatypeProperty ;
              rdfs:subPropertyOf owl:topDataProperty ;
-             rdfs:label "tempo de evolução da doença obesidade"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T23:02:33Z"^^xsd:dateTime ;
+             rdfs:label "imc do paciente"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000182
 :OBS_0000182 rdf:type owl:DatatypeProperty ;
              rdfs:subPropertyOf owl:topDataProperty ;
-             rdfs:label "identificação do profissional de saúde"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T23:02:33Z"^^xsd:dateTime ;
+             rdfs:label "hábitos do paciente"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000183
 :OBS_0000183 rdf:type owl:DatatypeProperty ;
              rdfs:subPropertyOf owl:topDataProperty ;
-             rdfs:label "data"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T23:02:33Z"^^xsd:dateTime ;
+             rdfs:label "tempo de evolução da doença obesidade"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000184
 :OBS_0000184 rdf:type owl:DatatypeProperty ;
              rdfs:subPropertyOf owl:topDataProperty ;
-             rdfs:label "alta"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T23:02:33Z"^^xsd:dateTime ;
+             rdfs:label "identificação do profissional de saúde"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000185
 :OBS_0000185 rdf:type owl:DatatypeProperty ;
              rdfs:subPropertyOf owl:topDataProperty ;
-             rdfs:label "tempo de uti"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T23:02:33Z"^^xsd:dateTime ;
+             rdfs:label "data"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000186
 :OBS_0000186 rdf:type owl:DatatypeProperty ;
              rdfs:subPropertyOf owl:topDataProperty ;
-             rdfs:label "potencial de contaminação"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T23:02:33Z"^^xsd:dateTime ;
+             rdfs:label "alta"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000187
 :OBS_0000187 rdf:type owl:DatatypeProperty ;
              rdfs:subPropertyOf owl:topDataProperty ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T23:02:33Z"^^xsd:dateTime ;
+             rdfs:label "tempo de uti"@pt .
+
+
+###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000188
+:OBS_0000188 rdf:type owl:DatatypeProperty ;
+             rdfs:subPropertyOf owl:topDataProperty ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T23:02:33Z"^^xsd:dateTime ;
+             rdfs:label "potencial de contaminação"@pt .
+
+
+###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000189
+:OBS_0000189 rdf:type owl:DatatypeProperty ;
+             rdfs:subPropertyOf owl:topDataProperty ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T23:02:33Z"^^xsd:dateTime ;
              rdfs:label "via de acesso da cirurgia"@pt .
 
 
@@ -172,1017 +212,1349 @@
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000003
 :OBS_0000003 rdf:type owl:Class ;
-             rdfs:subClassOf <http://purl.obolibrary.org/obo/BFO_0000030> ;
-             rdfs:label "pessoa"@pt .
+             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000031> ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "obesidade"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000004
 :OBS_0000004 rdf:type owl:Class ;
-             rdfs:subClassOf <http://purl.obolibrary.org/obo/BFO_0000023> ;
-             owl:disjointWith :OBS_0000005 ;
-             rdfs:label "paciente"@pt .
+             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000031> ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "complicação da cirurgia bariátrica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000005
 :OBS_0000005 rdf:type owl:Class ;
-             rdfs:subClassOf <http://purl.obolibrary.org/obo/BFO_0000023> ;
-             rdfs:label "profissional de saúde"@pt .
+             rdfs:subClassOf :OBS_0000004 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "complicação pós-operatória da cirurgia bariátrica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000006
 :OBS_0000006 rdf:type owl:Class ;
              rdfs:subClassOf :OBS_0000005 ;
-             owl:disjointWith :OBS_0000015 ;
-             rdfs:label "profissional básico do pré-operatório da bariátrica"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "tromboembolismo pulmonar"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000007
 :OBS_0000007 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000006 ,
-                             :OBS_0000023 ;
-             rdfs:label "endocrinologista"@pt .
+             rdfs:subClassOf :OBS_0000005 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "deiscência da sutura"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000008
 :OBS_0000008 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000006 ,
-                             :OBS_0000023 ;
-             rdfs:label "nutricionista ou nutrólogo"@pt .
+             rdfs:subClassOf :OBS_0000005 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "fístulas"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000009
 :OBS_0000009 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000006 ,
-                             :OBS_0000023 ;
-             rdfs:label "psicólogo"@pt .
+             rdfs:subClassOf :OBS_0000005 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "estenoses"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000010
 :OBS_0000010 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000006 ;
-             rdfs:label "psiquiatra"@pt .
+             rdfs:subClassOf :OBS_0000005 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "infecções"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000011
 :OBS_0000011 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000006 ,
-                             :OBS_0000018 ,
-                             :OBS_0000023 ;
-             rdfs:label "cirurgião bariátrico"@pt .
+             rdfs:subClassOf :OBS_0000005 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "hemorragia"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000012
 :OBS_0000012 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000006 ;
-             rdfs:label "pneumologista"@pt .
+             rdfs:subClassOf :OBS_0000005 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "hérnia interna"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000013
 :OBS_0000013 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000006 ,
-                             :OBS_0000018 ;
-             rdfs:label "anestesiologista"@pt .
+             rdfs:subClassOf :OBS_0000005 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "obstrução intestinal"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000014
 :OBS_0000014 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000006 ;
-             rdfs:label "cardiologista"@pt .
+             rdfs:subClassOf :OBS_0000005 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "síndrome de dumping"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000015
 :OBS_0000015 rdf:type owl:Class ;
              rdfs:subClassOf :OBS_0000005 ;
-             rdfs:label "outro profissional do pré-operatório da bariátrica"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "complicações da banda gástrica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000016
 :OBS_0000016 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000015 ;
-             owl:disjointWith :OBS_0000017 ;
-             rdfs:label "fisioterapeuta"@pt .
+             rdfs:subClassOf :OBS_0000005 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "rabdomiólise"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000017
 :OBS_0000017 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000015 ;
-             rdfs:label "ginecologista"@pt .
+             rdfs:subClassOf :OBS_0000005 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "insuficiência renal"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000018
 :OBS_0000018 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000005 ;
-             rdfs:label "profissional básico do operatório"@pt .
+             rdfs:subClassOf :OBS_0000004 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "complicação clínica da cirurgia bariátrica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000019
 :OBS_0000019 rdf:type owl:Class ;
              rdfs:subClassOf :OBS_0000018 ;
-             rdfs:label "primeiro auxiliar"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "distúrbios ácido básicos"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000020
 :OBS_0000020 rdf:type owl:Class ;
              rdfs:subClassOf :OBS_0000018 ;
-             rdfs:label "segundo auxiliar"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "hiperploriferação bacteriana"@pt .
+
+
+###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000021
+:OBS_0000021 rdf:type owl:Class ;
+             rdfs:subClassOf :OBS_0000018 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "anormalidades eletrolíticas"@pt .
+
+
+###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000022
+:OBS_0000022 rdf:type owl:Class ;
+             rdfs:subClassOf :OBS_0000018 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "deficiência vitamínica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000023
 :OBS_0000023 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000005 ;
-             rdfs:label "profissional básico do pós-operatório"@pt .
+             rdfs:subClassOf :OBS_0000018 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "deficiência de ferro"@pt .
+
+
+###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000024
+:OBS_0000024 rdf:type owl:Class ;
+             rdfs:subClassOf :OBS_0000018 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "osteoporose"@pt .
+
+
+###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000025
+:OBS_0000025 rdf:type owl:Class ;
+             rdfs:subClassOf :OBS_0000018 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "deficiência de tiamina"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000026
 :OBS_0000026 rdf:type owl:Class ;
-             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000108> ;
-             rdfs:label "exame"@pt .
+             rdfs:subClassOf :OBS_0000018 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "deficiência de vitamina b12"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000027
 :OBS_0000027 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000026 ;
-             owl:disjointWith :OBS_0000046 ;
-             rdfs:label "exame básico do pré-operatório"@pt .
+             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000031> ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "comorbidade da obesidade"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000028
 :OBS_0000028 rdf:type owl:Class ;
              rdfs:subClassOf :OBS_0000027 ;
-             rdfs:label "exame laboratorial do pré-operatório"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "comorbidade da obesidade para indicação de cirurgia bariátrica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000029
 :OBS_0000029 rdf:type owl:Class ;
              rdfs:subClassOf :OBS_0000028 ;
-             rdfs:label "hemograma completo"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "diabetes"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000030
 :OBS_0000030 rdf:type owl:Class ;
              rdfs:subClassOf :OBS_0000028 ;
-             rdfs:label "coagulograma"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "apneia do sono"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000031
 :OBS_0000031 rdf:type owl:Class ;
              rdfs:subClassOf :OBS_0000028 ;
-             rdfs:label "exame de tipo sanguíneo"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "hipertensão arterial"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000032
 :OBS_0000032 rdf:type owl:Class ;
              rdfs:subClassOf :OBS_0000028 ;
-             rdfs:label "glicemia"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "dislipidemia"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000033
 :OBS_0000033 rdf:type owl:Class ;
              rdfs:subClassOf :OBS_0000028 ;
-             rdfs:label "lipidograma"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "doenças cardiovasculares incluindo doença arterial coronariana"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000034
 :OBS_0000034 rdf:type owl:Class ;
              rdfs:subClassOf :OBS_0000028 ;
-             rdfs:label "análise da função hepática"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "infarto do miocárdio (im) angina"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000035
 :OBS_0000035 rdf:type owl:Class ;
              rdfs:subClassOf :OBS_0000028 ;
-             rdfs:label "dinâmica do ferro"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "insuficiência cardíaca congestiva(icc)"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000036
 :OBS_0000036 rdf:type owl:Class ;
              rdfs:subClassOf :OBS_0000028 ;
-             rdfs:label "exame de urina"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "acidente vascular cerebral"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000037
 :OBS_0000037 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000027 ;
-             rdfs:label "exame de imagem do pré-operatório"@pt .
+             rdfs:subClassOf :OBS_0000028 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "hipertensão e fibrilação atrial"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000038
 :OBS_0000038 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000037 ;
-             rdfs:label "raio-x do tórax"@pt .
+             rdfs:subClassOf :OBS_0000028 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "cardiomiopatiadilatada"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000039
 :OBS_0000039 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000037 ;
-             rdfs:label "densitometria óssea"@pt .
+             rdfs:subClassOf :OBS_0000028 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "cor pulmonale e síndrome de hipoventilação"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000040
 :OBS_0000040 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000037 ;
-             rdfs:label "ultrassonografia"@pt .
+             rdfs:subClassOf :OBS_0000028 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "asma grave não controlada"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000041
 :OBS_0000041 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000027 ;
-             rdfs:label "exame endoscópico do pré-operatório"@pt .
+             rdfs:subClassOf :OBS_0000028 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "osteoartroses"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000042
 :OBS_0000042 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000041 ;
-             rdfs:label "endoscopia digestiva alta"@pt .
+             rdfs:subClassOf :OBS_0000028 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "hérnias discais"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000043
 :OBS_0000043 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000027 ;
-             rdfs:label "outros exames do pré-operatório"@pt .
+             rdfs:subClassOf :OBS_0000028 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "refluxogastroesofageno com indicação cirúrgica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000044
 :OBS_0000044 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000043 ;
-             owl:disjointWith :OBS_0000045 ;
-             rdfs:label "eletrocardiograma"@pt .
+             rdfs:subClassOf :OBS_0000028 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "colecistopatia calculosa"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000045
 :OBS_0000045 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000043 ;
-             rdfs:label "espirometria"@pt .
+             rdfs:subClassOf :OBS_0000028 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "pancreatites agudas de repetição"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000046
 :OBS_0000046 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000026 ;
-             rdfs:label "exame básico do pós-operatório"@pt .
+             rdfs:subClassOf :OBS_0000028 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "esteatose hepática"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000047
 :OBS_0000047 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000046 ;
-             rdfs:label "avaliação laboratorial"@pt .
+             rdfs:subClassOf :OBS_0000028 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "incontinência urinária de esforço da mulher"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000048
 :OBS_0000048 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000046 ;
-             rdfs:label "densitometria óssea a cada 2 anos"@pt .
+             rdfs:subClassOf :OBS_0000028 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "infertilidade masculina e feminina"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000049
 :OBS_0000049 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000046 ;
-             rdfs:label "ultrassonografia abdominal anual"@pt .
+             rdfs:subClassOf :OBS_0000028 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "disfunção erétil"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000050
 :OBS_0000050 rdf:type owl:Class ;
-             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000057> ;
-             rdfs:label "anamnese do pré-operatório"@pt .
+             rdfs:subClassOf :OBS_0000028 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "síndrome dos ovários policísticos"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000051
 :OBS_0000051 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000050 ;
-             rdfs:label "anamnese clínica"@pt .
+             rdfs:subClassOf :OBS_0000028 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "veias varicosas e doença hemorroidária"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000052
 :OBS_0000052 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000050 ;
-             rdfs:label "anamnese nutricional"@pt .
+             rdfs:subClassOf :OBS_0000028 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "hipertensão intracraniana idiopática (pseudotumorcerebri)"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000053
 :OBS_0000053 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000050 ;
-             rdfs:label "anamnese social"@pt .
+             rdfs:subClassOf :OBS_0000028 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "estigmatização social"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000054
 :OBS_0000054 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000050 ;
-             rdfs:label "anamnese do pós-operatório"@pt .
+             rdfs:subClassOf :OBS_0000028 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "depressão"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000055
 :OBS_0000055 rdf:type owl:Class ;
-             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000112> ;
-             rdfs:label "cirurgia bariátrica"@pt .
+             rdfs:subClassOf :OBS_0000027 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "comorbidade da obesidade sem indicação de cirurgia bariátrica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000056
 :OBS_0000056 rdf:type owl:Class ;
              rdfs:subClassOf :OBS_0000055 ;
-             rdfs:label "derivação gastrointestinal em y-de-roux"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "pré-diabetes"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000057
 :OBS_0000057 rdf:type owl:Class ;
              rdfs:subClassOf :OBS_0000055 ;
-             rdfs:label "gastrectomia vertical"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "hipotireoidismo"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000058
 :OBS_0000058 rdf:type owl:Class ;
              rdfs:subClassOf :OBS_0000055 ;
-             rdfs:label "derivação biliopancreática (duodenal switch)"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "síndrome metabólica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000059
 :OBS_0000059 rdf:type owl:Class ;
              rdfs:subClassOf :OBS_0000055 ;
-             rdfs:label "banda gástrica"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:42Z"^^xsd:dateTime ;
+             rdfs:label "comorbidades ortopédicas"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000060
 :OBS_0000060 rdf:type owl:Class ;
              rdfs:subClassOf :OBS_0000055 ;
-             rdfs:label "derivação jejunoilelal"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:43Z"^^xsd:dateTime ;
+             rdfs:label "gastrite"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000061
 :OBS_0000061 rdf:type owl:Class ;
              rdfs:subClassOf :OBS_0000055 ;
-             rdfs:label "derivação jejunocólica"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:43Z"^^xsd:dateTime ;
+             rdfs:label "hepatomegalia"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000062
 :OBS_0000062 rdf:type owl:Class ;
-             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000112> ;
-             rdfs:label "anestesia"@pt .
+             rdfs:subClassOf :OBS_0000055 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:43Z"^^xsd:dateTime ;
+             rdfs:label "cálculo biliar"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000063
 :OBS_0000063 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000062 ;
-             rdfs:label "anestesia geral"@pt .
+             rdfs:subClassOf :OBS_0000055 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:43Z"^^xsd:dateTime ;
+             rdfs:label "hérnia de hiato"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000064
 :OBS_0000064 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000062 ;
-             rdfs:label "anestesia peridural"@pt .
+             rdfs:subClassOf :OBS_0000055 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:43Z"^^xsd:dateTime ;
+             rdfs:label "esofagite"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000065
 :OBS_0000065 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000062 ;
-             rdfs:label "anestesia raquidiana"@pt .
+             rdfs:subClassOf :OBS_0000055 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:43Z"^^xsd:dateTime ;
+             rdfs:label "osteopenia"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000066
 :OBS_0000066 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000062 ;
-             rdfs:label "administração de medicamentos diretamente na corrente sanguínea"@pt .
+             rdfs:subClassOf :OBS_0000055 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:43:43Z"^^xsd:dateTime ;
+             rdfs:label "carências vitamínicas"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000067
 :OBS_0000067 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000062 ;
-             rdfs:label "procedimento endoscópico"@pt .
+             rdfs:subClassOf <http://purl.obolibrary.org/obo/BFO_0000016> ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:45:01Z"^^xsd:dateTime ;
+             rdfs:label "hábito"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000068
 :OBS_0000068 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000062 ;
-             rdfs:label "balão intragástrico"@pt .
+             rdfs:subClassOf :OBS_0000067 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:45:01Z"^^xsd:dateTime ;
+             rdfs:label "hábito de fumar"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000069
 :OBS_0000069 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000062 ;
-             rdfs:label "terapia com aspiração"@pt .
+             rdfs:subClassOf :OBS_0000067 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:45:01Z"^^xsd:dateTime ;
+             rdfs:label "compulsão alimentar"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000070
 :OBS_0000070 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000062 ;
-             rdfs:label "tratamento bariátrico endoscópico"@pt .
+             rdfs:subClassOf :OBS_0000067 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:45:01Z"^^xsd:dateTime ;
+             rdfs:label "dependência de drogas e/ou álcool"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000071
 :OBS_0000071 rdf:type owl:Class ;
-             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000112> ;
-             rdfs:label "cirurgia plástica reparadora"@pt .
+             rdfs:subClassOf :OBS_0000067 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:45:01Z"^^xsd:dateTime ;
+             rdfs:label "hábito de fazer atividades físicas"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000072
 :OBS_0000072 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000071 ;
-             rdfs:label "mamoplastia"@pt .
+             rdfs:subClassOf <http://purl.obolibrary.org/obo/BFO_0000023> ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:46:30Z"^^xsd:dateTime ;
+             rdfs:label "paciente"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000073
 :OBS_0000073 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000071 ;
-             rdfs:label "abdominoplastia/torsoplastia"@pt .
+             rdfs:subClassOf <http://purl.obolibrary.org/obo/BFO_0000023> ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:46:46Z"^^xsd:dateTime ;
+             rdfs:label "profissional de saúde"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000074
 :OBS_0000074 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000071 ;
-             rdfs:label "retirada de excesso de pele no braço e coxa"@pt .
+             rdfs:subClassOf :OBS_0000073 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:46:46Z"^^xsd:dateTime ;
+             rdfs:label "profissional básico do pré-operatório da bariátrica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000075
 :OBS_0000075 rdf:type owl:Class ;
-             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000112> ;
-             rdfs:label "internação"@pt .
+             rdfs:subClassOf :OBS_0000074 ,
+                             :OBS_0000089 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:46:46Z"^^xsd:dateTime ;
+             rdfs:label "endocrinologista"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000076
 :OBS_0000076 rdf:type owl:Class ;
-             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000112> ;
-             rdfs:label "cuidado do pós-operatório"@pt .
+             rdfs:subClassOf :OBS_0000074 ,
+                             :OBS_0000089 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:46:46Z"^^xsd:dateTime ;
+             rdfs:label "nutricionista ou nutrólogo"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000077
 :OBS_0000077 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000076 ;
-             rdfs:label "profilaxia para trombose"@pt .
+             rdfs:subClassOf :OBS_0000074 ,
+                             :OBS_0000089 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:46:46Z"^^xsd:dateTime ;
+             rdfs:label "psicólogo"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000078
 :OBS_0000078 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000076 ;
-             rdfs:label "oxigenoterapia"@pt .
+             rdfs:subClassOf :OBS_0000074 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:46:46Z"^^xsd:dateTime ;
+             rdfs:label "psiquiatra"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000079
 :OBS_0000079 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000076 ;
-             rdfs:label "cpap"@pt .
+             rdfs:subClassOf :OBS_0000074 ,
+                             :OBS_0000086 ,
+                             :OBS_0000089 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:46:46Z"^^xsd:dateTime ;
+             rdfs:label "cirurgião bariátrico"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000080
 :OBS_0000080 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000076 ;
-             rdfs:label "faixa abdominal"@pt .
+             rdfs:subClassOf :OBS_0000074 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:46:46Z"^^xsd:dateTime ;
+             rdfs:label "pneumologista"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000081
 :OBS_0000081 rdf:type owl:Class ;
-             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000112> ;
-             rdfs:label "uso de medicamento"@pt .
+             rdfs:subClassOf :OBS_0000074 ,
+                             :OBS_0000086 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:46:46Z"^^xsd:dateTime ;
+             rdfs:label "anestesiologista"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000082
 :OBS_0000082 rdf:type owl:Class ;
-             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000031> ;
-             rdfs:label "obesidade"@pt .
+             rdfs:subClassOf :OBS_0000074 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:46:46Z"^^xsd:dateTime ;
+             rdfs:label "cardiologista"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000083
 :OBS_0000083 rdf:type owl:Class ;
-             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000031> ;
-             rdfs:label "complicação da cirurgia bariátrica"@pt .
+             rdfs:subClassOf :OBS_0000073 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:46:46Z"^^xsd:dateTime ;
+             rdfs:label "outro profissional do pré-operatório da bariátrica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000084
 :OBS_0000084 rdf:type owl:Class ;
              rdfs:subClassOf :OBS_0000083 ;
-             rdfs:label "complicação pós-operatória da cirurgia bariátrica"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:46:46Z"^^xsd:dateTime ;
+             rdfs:label "fisioterapeuta"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000085
 :OBS_0000085 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000084 ;
-             rdfs:label "tromboembolismo pulmonar"@pt .
+             rdfs:subClassOf :OBS_0000083 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:46:46Z"^^xsd:dateTime ;
+             rdfs:label "ginecologista"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000086
 :OBS_0000086 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000084 ;
-             rdfs:label "deiscência da sutura"@pt .
+             rdfs:subClassOf :OBS_0000073 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:46:46Z"^^xsd:dateTime ;
+             rdfs:label "profissional básico do operatório"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000087
 :OBS_0000087 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000084 ;
-             rdfs:label "fístulas"@pt .
+             rdfs:subClassOf :OBS_0000086 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:46:46Z"^^xsd:dateTime ;
+             rdfs:label "primeiro auxiliar"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000088
 :OBS_0000088 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000084 ;
-             rdfs:label "estenoses"@pt .
+             rdfs:subClassOf :OBS_0000086 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:46:46Z"^^xsd:dateTime ;
+             rdfs:label "segundo auxiliar"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000089
 :OBS_0000089 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000084 ;
-             rdfs:label "infecções"@pt .
+             rdfs:subClassOf :OBS_0000073 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:46:46Z"^^xsd:dateTime ;
+             rdfs:label "profissional básico do pós-operatório"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000090
 :OBS_0000090 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000084 ;
-             rdfs:label "hemorragia"@pt .
+             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000122> ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:47:48Z"^^xsd:dateTime ;
+             rdfs:label "tratado com sucesso da obesidade"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000091
 :OBS_0000091 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000084 ;
-             rdfs:label "hérnia interna"@pt .
+             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000099> ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:50:13Z"^^xsd:dateTime ;
+             rdfs:label "consulta do pré-operatório da bariátrica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000092
 :OBS_0000092 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000084 ;
-             rdfs:label "obstrução intestinal"@pt .
+             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000099> ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:50:36Z"^^xsd:dateTime ;
+             rdfs:label "consulta do pós-operatório da bariátrica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000093
 :OBS_0000093 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000084 ;
-             rdfs:label "síndrome de dumping"@pt .
+             rdfs:subClassOf :OBS_0000092 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:50:36Z"^^xsd:dateTime ;
+             rdfs:label "consulta de acompanhamento entre 15 a 30 dias após a bariátrica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000094
 :OBS_0000094 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000084 ;
-             rdfs:label "complicações da banda gástrica"@pt .
+             rdfs:subClassOf :OBS_0000092 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:50:36Z"^^xsd:dateTime ;
+             rdfs:label "consulta de acompanhamento no 2º mês após a bariátrica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000095
 :OBS_0000095 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000084 ;
-             rdfs:label "rabdomiólise"@pt .
+             rdfs:subClassOf :OBS_0000092 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:50:36Z"^^xsd:dateTime ;
+             rdfs:label "consulta de acompanhamento no 3º mês após a bariátrica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000096
 :OBS_0000096 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000084 ;
-             rdfs:label "insuficiência renal"@pt .
+             rdfs:subClassOf :OBS_0000092 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:50:36Z"^^xsd:dateTime ;
+             rdfs:label "consulta de acompanhamento no 4º mês após a bariátrica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000097
 :OBS_0000097 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000083 ;
-             rdfs:label "complicação clínica da cirurgia bariátrica"@pt .
+             rdfs:subClassOf :OBS_0000092 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:50:36Z"^^xsd:dateTime ;
+             rdfs:label "consulta de acompanhamento no 6º mês após a bariátrica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000098
 :OBS_0000098 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000097 ;
-             rdfs:label "distúrbios ácido básicos"@pt .
+             rdfs:subClassOf :OBS_0000092 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:50:36Z"^^xsd:dateTime ;
+             rdfs:label "consulta de acompanhamento no 9º mês após a bariátrica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000099
 :OBS_0000099 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000097 ;
-             rdfs:label "hiperploriferação bacteriana"@pt .
+             rdfs:subClassOf :OBS_0000092 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:50:36Z"^^xsd:dateTime ;
+             rdfs:label "consulta de acompanhamento entre 12 a 15 meses após a bariátrica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000100
 :OBS_0000100 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000097 ;
-             rdfs:label "anormalidades eletrolíticas"@pt .
+             rdfs:subClassOf :OBS_0000092 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:50:36Z"^^xsd:dateTime ;
+             rdfs:label "consulta de acompanhamento no 18º mês após a bariátrica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000101
 :OBS_0000101 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000097 ;
-             rdfs:label "deficiência vitamínica"@pt .
+             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000100> ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:51:14Z"^^xsd:dateTime ;
+             rdfs:label "consulta do operatório da bariátrica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000102
 :OBS_0000102 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000097 ;
-             rdfs:label "deficiência de ferro"@pt .
+             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000108> ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:52:08Z"^^xsd:dateTime ;
+             rdfs:label "exame"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000103
 :OBS_0000103 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000097 ;
-             rdfs:label "osteoporose"@pt .
+             rdfs:subClassOf :OBS_0000102 ;
+             owl:disjointWith :OBS_0000122 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:52:08Z"^^xsd:dateTime ;
+             rdfs:label "exame básico do pré-operatório"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000104
 :OBS_0000104 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000097 ;
-             rdfs:label "deficiência de tiamina"@pt .
+             rdfs:subClassOf :OBS_0000103 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:52:08Z"^^xsd:dateTime ;
+             rdfs:label "exame laboratorial do pré-operatório"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000105
 :OBS_0000105 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000097 ;
-             rdfs:label "deficiência de vitamina b12"@pt .
+             rdfs:subClassOf :OBS_0000104 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:52:08Z"^^xsd:dateTime ;
+             rdfs:label "hemograma completo"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000106
 :OBS_0000106 rdf:type owl:Class ;
-             rdfs:subClassOf <http://purl.obolibrary.org/obo/BFO_0000030> ;
-             rdfs:label "medicamento"@pt .
+             rdfs:subClassOf :OBS_0000104 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:52:08Z"^^xsd:dateTime ;
+             rdfs:label "coagulograma"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000107
 :OBS_0000107 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000106 ;
-             rdfs:label "medicamento do operatório da bariátrica"@pt .
+             rdfs:subClassOf :OBS_0000104 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:52:08Z"^^xsd:dateTime ;
+             rdfs:label "exame de tipo sanguíneo"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000108
 :OBS_0000108 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000107 ;
-             rdfs:label "cefazolina"@pt .
+             rdfs:subClassOf :OBS_0000104 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:52:08Z"^^xsd:dateTime ;
+             rdfs:label "glicemia"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000109
 :OBS_0000109 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000107 ;
-             rdfs:label "insulinoterapia para diabéticos"@pt .
+             rdfs:subClassOf :OBS_0000104 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:52:08Z"^^xsd:dateTime ;
+             rdfs:label "lipidograma"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000110
 :OBS_0000110 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000106 ;
-             rdfs:label "medicamento do pós-operatório da bariátrica"@pt .
+             rdfs:subClassOf :OBS_0000104 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:52:08Z"^^xsd:dateTime ;
+             rdfs:label "análise da função hepática"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000111
 :OBS_0000111 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000110 ;
-             rdfs:label "suplementação nutricional"@pt .
+             rdfs:subClassOf :OBS_0000104 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:52:08Z"^^xsd:dateTime ;
+             rdfs:label "dinâmica do ferro"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000112
 :OBS_0000112 rdf:type owl:Class ;
-             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000099> ;
-             owl:disjointWith :OBS_0000113 ;
-             rdfs:label "consulta do pré-operatório da bariátrica"@pt .
+             rdfs:subClassOf :OBS_0000104 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:52:08Z"^^xsd:dateTime ;
+             rdfs:label "exame de urina"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000113
 :OBS_0000113 rdf:type owl:Class ;
-             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000099> ;
-             rdfs:label "consulta do pós-operatório da bariátrica"@pt .
+             rdfs:subClassOf :OBS_0000103 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:52:08Z"^^xsd:dateTime ;
+             rdfs:label "exame de imagem do pré-operatório"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000114
 :OBS_0000114 rdf:type owl:Class ;
              rdfs:subClassOf :OBS_0000113 ;
-             rdfs:label "consulta de acompanhamento entre 15 a 30 dias após a bariátrica"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:52:08Z"^^xsd:dateTime ;
+             rdfs:label "raio-x do tórax"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000115
 :OBS_0000115 rdf:type owl:Class ;
              rdfs:subClassOf :OBS_0000113 ;
-             rdfs:label "consulta de acompanhamento no 2º mês após a bariátrica"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:52:08Z"^^xsd:dateTime ;
+             rdfs:label "densitometria óssea"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000116
 :OBS_0000116 rdf:type owl:Class ;
              rdfs:subClassOf :OBS_0000113 ;
-             rdfs:label "consulta de acompanhamento no 3º mês após a bariátrica"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:52:08Z"^^xsd:dateTime ;
+             rdfs:label "ultrassonografia"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000117
 :OBS_0000117 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000113 ;
-             rdfs:label "consulta de acompanhamento no 4º mês após a bariátrica"@pt .
+             rdfs:subClassOf :OBS_0000103 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:52:08Z"^^xsd:dateTime ;
+             rdfs:label "exame endoscópico do pré-operatório"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000118
 :OBS_0000118 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000113 ;
-             rdfs:label "consulta de acompanhamento no 6º mês após a bariátrica"@pt .
+             rdfs:subClassOf :OBS_0000117 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:52:08Z"^^xsd:dateTime ;
+             rdfs:label "endoscopia digestiva alta"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000119
 :OBS_0000119 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000113 ;
-             rdfs:label "consulta de acompanhamento no 9º mês após a bariátrica"@pt .
+             rdfs:subClassOf :OBS_0000103 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:52:08Z"^^xsd:dateTime ;
+             rdfs:label "outros exames do pré-operatório"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000120
 :OBS_0000120 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000113 ;
-             rdfs:label "consulta de acompanhamento entre 12 a 15 meses após a bariátrica"@pt .
+             rdfs:subClassOf :OBS_0000119 ;
+             owl:disjointWith :OBS_0000121 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:52:08Z"^^xsd:dateTime ;
+             rdfs:label "eletrocardiograma"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000121
 :OBS_0000121 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000113 ;
-             rdfs:label "consulta de acompanhamento no 18º mês após a bariátrica"@pt .
+             rdfs:subClassOf :OBS_0000119 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:52:08Z"^^xsd:dateTime ;
+             rdfs:label "espirometria"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000122
 :OBS_0000122 rdf:type owl:Class ;
-             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000100> ;
-             rdfs:label "consulta do operatório da bariátrica"@pt .
+             rdfs:subClassOf :OBS_0000102 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:52:08Z"^^xsd:dateTime ;
+             rdfs:label "exame básico do pós-operatório"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000123
 :OBS_0000123 rdf:type owl:Class ;
-             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000122> ;
-             rdfs:label "tratado com sucesso da obesidade"@pt .
+             rdfs:subClassOf :OBS_0000122 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:52:08Z"^^xsd:dateTime ;
+             rdfs:label "avaliação laboratorial"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000124
 :OBS_0000124 rdf:type owl:Class ;
-             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000031> ;
-             rdfs:label "comorbidade da obesidade"@pt .
+             rdfs:subClassOf :OBS_0000122 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:52:08Z"^^xsd:dateTime ;
+             rdfs:label "densitometria óssea a cada 2 anos"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000125
 :OBS_0000125 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000124 ;
-             owl:disjointWith :OBS_0000152 ;
-             rdfs:label "comorbidade da obesidade para indicação de cirurgia bariátrica"@pt .
+             rdfs:subClassOf :OBS_0000122 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:52:08Z"^^xsd:dateTime ;
+             rdfs:label "ultrassonografia abdominal anual"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000126
 :OBS_0000126 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000125 ;
-             rdfs:label "diabetes"@pt .
+             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000057> ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:53:02Z"^^xsd:dateTime ;
+             rdfs:label "anamnese do pré-operatório"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000127
 :OBS_0000127 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000125 ;
-             rdfs:label "apneia do sono"@pt .
+             rdfs:subClassOf :OBS_0000126 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:53:02Z"^^xsd:dateTime ;
+             rdfs:label "anamnese clínica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000128
 :OBS_0000128 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000125 ;
-             rdfs:label "hipertensão arterial"@pt .
+             rdfs:subClassOf :OBS_0000126 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:53:02Z"^^xsd:dateTime ;
+             rdfs:label "anamnese nutricional"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000129
 :OBS_0000129 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000125 ;
-             rdfs:label "dislipidemia"@pt .
+             rdfs:subClassOf :OBS_0000126 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:53:02Z"^^xsd:dateTime ;
+             rdfs:label "anamnese social"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000130
 :OBS_0000130 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000125 ;
-             rdfs:label "doenças cardiovasculares incluindo doença arterial coronariana"@pt .
+             rdfs:subClassOf :OBS_0000126 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:53:02Z"^^xsd:dateTime ;
+             rdfs:label "anamnese do pós-operatório"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000131
 :OBS_0000131 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000125 ;
-             rdfs:label "infarto do miocárdio (im) angina"@pt .
+             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000112> ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:54:08Z"^^xsd:dateTime ;
+             rdfs:label "anestesia"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000132
 :OBS_0000132 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000125 ;
-             rdfs:label "insuficiência cardíaca congestiva(icc)"@pt .
+             rdfs:subClassOf :OBS_0000131 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:54:08Z"^^xsd:dateTime ;
+             rdfs:label "anestesia geral"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000133
 :OBS_0000133 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000125 ;
-             rdfs:label "acidente vascular cerebral"@pt .
+             rdfs:subClassOf :OBS_0000131 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:54:08Z"^^xsd:dateTime ;
+             rdfs:label "anestesia peridural"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000134
 :OBS_0000134 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000125 ;
-             rdfs:label "hipertensão e fibrilação atrial"@pt .
+             rdfs:subClassOf :OBS_0000131 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:54:08Z"^^xsd:dateTime ;
+             rdfs:label "anestesia raquidiana"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000135
 :OBS_0000135 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000125 ;
-             rdfs:label "cardiomiopatiadilatada"@pt .
+             rdfs:subClassOf :OBS_0000131 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:54:08Z"^^xsd:dateTime ;
+             rdfs:label "administração de medicamentos diretamente na corrente sanguínea"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000136
 :OBS_0000136 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000125 ;
-             rdfs:label "cor pulmonale e síndrome de hipoventilação"@pt .
+             rdfs:subClassOf :OBS_0000131 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:54:08Z"^^xsd:dateTime ;
+             rdfs:label "procedimento endoscópico"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000137
 :OBS_0000137 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000125 ;
-             rdfs:label "asma grave não controlada"@pt .
+             rdfs:subClassOf :OBS_0000131 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:54:08Z"^^xsd:dateTime ;
+             rdfs:label "balão intragástrico"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000138
 :OBS_0000138 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000125 ;
-             rdfs:label "osteoartroses"@pt .
+             rdfs:subClassOf :OBS_0000131 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:54:08Z"^^xsd:dateTime ;
+             rdfs:label "terapia com aspiração"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000139
 :OBS_0000139 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000125 ;
-             rdfs:label "hérnias discais"@pt .
+             rdfs:subClassOf :OBS_0000131 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:54:08Z"^^xsd:dateTime ;
+             rdfs:label "tratamento bariátrico endoscópico"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000140
 :OBS_0000140 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000125 ;
-             rdfs:label "refluxogastroesofageno com indicação cirúrgica"@pt .
+             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000112> ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:54:47Z"^^xsd:dateTime ;
+             rdfs:label "cirurgia bariátrica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000141
 :OBS_0000141 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000125 ;
-             rdfs:label "colecistopatia calculosa"@pt .
+             rdfs:subClassOf :OBS_0000140 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:54:47Z"^^xsd:dateTime ;
+             rdfs:label "derivação gastrointestinal em y-de-roux"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000142
 :OBS_0000142 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000125 ;
-             rdfs:label "pancreatites agudas de repetição"@pt .
+             rdfs:subClassOf :OBS_0000140 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:54:47Z"^^xsd:dateTime ;
+             rdfs:label "gastrectomia vertical"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000143
 :OBS_0000143 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000125 ;
-             rdfs:label "esteatose hepática"@pt .
+             rdfs:subClassOf :OBS_0000140 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:54:47Z"^^xsd:dateTime ;
+             rdfs:label "derivação biliopancreática (duodenal switch)"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000144
 :OBS_0000144 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000125 ;
-             rdfs:label "incontinência urinária de esforço da mulher"@pt .
+             rdfs:subClassOf :OBS_0000140 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:54:47Z"^^xsd:dateTime ;
+             rdfs:label "banda gástrica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000145
 :OBS_0000145 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000125 ;
-             rdfs:label "infertilidade masculina e feminina"@pt .
+             rdfs:subClassOf :OBS_0000140 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:54:47Z"^^xsd:dateTime ;
+             rdfs:label "derivação jejunoilelal"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000146
 :OBS_0000146 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000125 ;
-             rdfs:label "disfunção erétil"@pt .
+             rdfs:subClassOf :OBS_0000140 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:54:47Z"^^xsd:dateTime ;
+             rdfs:label "derivação jejunocólica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000147
 :OBS_0000147 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000125 ;
-             rdfs:label "síndrome dos ovários policísticos"@pt .
+             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000112> ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:55:08Z"^^xsd:dateTime ;
+             rdfs:label "cirurgia plástica reparadora"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000148
 :OBS_0000148 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000125 ;
-             rdfs:label "veias varicosas e doença hemorroidária"@pt .
+             rdfs:subClassOf :OBS_0000147 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:55:08Z"^^xsd:dateTime ;
+             rdfs:label "mamoplastia"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000149
 :OBS_0000149 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000125 ;
-             rdfs:label "hipertensão intracraniana idiopática (pseudotumorcerebri)"@pt .
+             rdfs:subClassOf :OBS_0000147 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:55:08Z"^^xsd:dateTime ;
+             rdfs:label "abdominoplastia/torsoplastia"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000150
 :OBS_0000150 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000125 ;
-             rdfs:label "estigmatização social"@pt .
+             rdfs:subClassOf :OBS_0000147 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:55:08Z"^^xsd:dateTime ;
+             rdfs:label "retirada de excesso de pele no braço e coxa"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000151
 :OBS_0000151 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000125 ;
-             rdfs:label "depressão"@pt .
+             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000112> ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:55:20Z"^^xsd:dateTime ;
+             rdfs:label "cuidado do pós-operatório"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000152
 :OBS_0000152 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000124 ;
-             rdfs:label "comorbidade da obesidade sem indicação de cirurgia bariátrica"@pt .
+             rdfs:subClassOf :OBS_0000151 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:55:20Z"^^xsd:dateTime ;
+             rdfs:label "profilaxia para trombose"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000153
 :OBS_0000153 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000152 ;
-             rdfs:label "pré-diabetes"@pt .
+             rdfs:subClassOf :OBS_0000151 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:55:20Z"^^xsd:dateTime ;
+             rdfs:label "oxigenoterapia"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000154
 :OBS_0000154 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000152 ;
-             rdfs:label "hipotireoidismo"@pt .
+             rdfs:subClassOf :OBS_0000151 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:55:20Z"^^xsd:dateTime ;
+             rdfs:label "cpap"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000155
 :OBS_0000155 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000152 ;
-             rdfs:label "síndrome metabólica"@pt .
+             rdfs:subClassOf :OBS_0000151 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:55:20Z"^^xsd:dateTime ;
+             rdfs:label "faixa abdominal"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000156
 :OBS_0000156 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000152 ;
-             rdfs:label "comorbidades ortopédicas"@pt .
+             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000112> ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:55:30Z"^^xsd:dateTime ;
+             rdfs:label "internação"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000157
 :OBS_0000157 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000152 ;
-             rdfs:label "gastrite"@pt .
+             rdfs:subClassOf <http://purl.obolibrary.org/obo/OGMS_0000112> ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:55:40Z"^^xsd:dateTime ;
+             rdfs:label "uso de medicamento"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000158
 :OBS_0000158 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000152 ;
-             rdfs:label "hepatomegalia"@pt .
+             rdfs:subClassOf <http://purl.obolibrary.org/obo/BFO_0000030> ;
+             owl:disjointWith :OBS_0000164 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:58:14Z"^^xsd:dateTime ;
+             rdfs:label "medicamento"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000159
 :OBS_0000159 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000152 ;
-             rdfs:label "cálculo biliar"@pt .
+             rdfs:subClassOf :OBS_0000158 ;
+             owl:disjointWith :OBS_0000162 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:58:14Z"^^xsd:dateTime ;
+             rdfs:label "medicamento do operatório da bariátrica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000160
 :OBS_0000160 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000152 ;
-             rdfs:label "hérnia de hiato"@pt .
+             rdfs:subClassOf :OBS_0000159 ;
+             owl:disjointWith :OBS_0000161 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:58:14Z"^^xsd:dateTime ;
+             rdfs:label "cefazolina"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000161
 :OBS_0000161 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000152 ;
-             rdfs:label "esofagite"@pt .
+             rdfs:subClassOf :OBS_0000159 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:58:14Z"^^xsd:dateTime ;
+             rdfs:label "insulinoterapia para diabéticos"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000162
 :OBS_0000162 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000152 ;
-             rdfs:label "osteopenia"@pt .
+             rdfs:subClassOf :OBS_0000158 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:58:14Z"^^xsd:dateTime ;
+             rdfs:label "medicamento do pós-operatório da bariátrica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000163
 :OBS_0000163 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000152 ;
-             rdfs:label "carências vitamínicas"@pt .
+             rdfs:subClassOf :OBS_0000162 ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:58:14Z"^^xsd:dateTime ;
+             rdfs:label "suplementação nutricional"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000164
 :OBS_0000164 rdf:type owl:Class ;
-             rdfs:subClassOf <http://purl.obolibrary.org/obo/BFO_0000016> ;
-             rdfs:label "hábito"@pt .
+             rdfs:subClassOf <http://purl.obolibrary.org/obo/BFO_0000030> ;
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:58:33Z"^^xsd:dateTime ;
+             rdfs:label "material para cirurgia bariátrica"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000165
 :OBS_0000165 rdf:type owl:Class ;
              rdfs:subClassOf :OBS_0000164 ;
-             rdfs:label "hábito de fumar"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:58:33Z"^^xsd:dateTime ;
+             rdfs:label "grampeador linear cortante"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000166
 :OBS_0000166 rdf:type owl:Class ;
              rdfs:subClassOf :OBS_0000164 ;
-             rdfs:label "compulsão alimentar"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:58:33Z"^^xsd:dateTime ;
+             rdfs:label "carga para grampeador linear cortante"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000167
 :OBS_0000167 rdf:type owl:Class ;
              rdfs:subClassOf :OBS_0000164 ;
-             rdfs:label "dependência de drogas e/ou álcool"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:58:33Z"^^xsd:dateTime ;
+             rdfs:label "grampeador linear"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000168
 :OBS_0000168 rdf:type owl:Class ;
              rdfs:subClassOf :OBS_0000164 ;
-             rdfs:label "hábito de fazer atividades físicas"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:58:33Z"^^xsd:dateTime ;
+             rdfs:label "grampeador circular intraluminal"@pt .
 
 
 ###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000169
 :OBS_0000169 rdf:type owl:Class ;
              rdfs:subClassOf <http://purl.obolibrary.org/obo/BFO_0000030> ;
-             rdfs:label "material para cirurgia bariátrica"@pt .
-
-
-###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000170
-:OBS_0000170 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000169 ;
-             rdfs:label "grampeador linear cortante"@pt .
-
-
-###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000171
-:OBS_0000171 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000169 ;
-             rdfs:label "carga para grampeador linear cortante"@pt .
-
-
-###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000172
-:OBS_0000172 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000169 ;
-             rdfs:label "grampeador linear"@pt .
-
-
-###  https://github.com/glaubernunes/ontology-for-bariatric-surgery/raw/main/ontology-for-bariatric-surgery.owl#OBS_0000173
-:OBS_0000173 rdf:type owl:Class ;
-             rdfs:subClassOf :OBS_0000169 ;
-             rdfs:label "grampeador circular intraluminal"@pt .
+             <http://purl.obolibrary.org/obo/IAO_0000117> "Glauber Nunes"^^xsd:string ;
+             <http://purl.org/dc/elements/1.1/date> "2021-03-06T22:58:39Z"^^xsd:dateTime ;
+             rdfs:label "pessoa"@pt .
 
 
 #################################################################
@@ -1206,102 +1578,23 @@
 #################################################################
 
 [ rdf:type owl:AllDisjointClasses ;
-  owl:members ( :OBS_0000007
-                :OBS_0000008
-                :OBS_0000009
-                :OBS_0000010
-                :OBS_0000011
-                :OBS_0000012
-                :OBS_0000013
-                :OBS_0000014
+  owl:members ( :OBS_0000104
+                :OBS_0000113
+                :OBS_0000117
+                :OBS_0000119
               )
 ] .
 
 
 [ rdf:type owl:AllDisjointClasses ;
-  owl:members ( :OBS_0000028
-                :OBS_0000037
-                :OBS_0000041
-                :OBS_0000043
-              )
-] .
-
-
-[ rdf:type owl:AllDisjointClasses ;
-  owl:members ( :OBS_0000029
-                :OBS_0000030
-                :OBS_0000031
-                :OBS_0000032
-                :OBS_0000033
-                :OBS_0000034
-                :OBS_0000035
-                :OBS_0000036
-              )
-] .
-
-
-[ rdf:type owl:AllDisjointClasses ;
-  owl:members ( :OBS_0000038
-                :OBS_0000039
-                :OBS_0000040
-              )
-] .
-
-
-[ rdf:type owl:AllDisjointClasses ;
-  owl:members ( :OBS_0000047
-                :OBS_0000048
-                :OBS_0000049
-              )
-] .
-
-
-[ rdf:type owl:AllDisjointClasses ;
-  owl:members ( :OBS_0000051
-                :OBS_0000052
-                :OBS_0000053
-                :OBS_0000054
-              )
-] .
-
-
-[ rdf:type owl:AllDisjointClasses ;
-  owl:members ( :OBS_0000056
-                :OBS_0000057
-                :OBS_0000058
-                :OBS_0000059
-                :OBS_0000060
-                :OBS_0000061
-              )
-] .
-
-
-[ rdf:type owl:AllDisjointClasses ;
-  owl:members ( :OBS_0000063
-                :OBS_0000064
-                :OBS_0000065
-                :OBS_0000066
-                :OBS_0000067
-                :OBS_0000068
-                :OBS_0000069
-                :OBS_0000070
-              )
-] .
-
-
-[ rdf:type owl:AllDisjointClasses ;
-  owl:members ( :OBS_0000072
-                :OBS_0000073
-                :OBS_0000074
-              )
-] .
-
-
-[ rdf:type owl:AllDisjointClasses ;
-  owl:members ( :OBS_0000077
-                :OBS_0000078
-                :OBS_0000079
-                :OBS_0000080
+  owl:members ( :OBS_0000105
+                :OBS_0000106
+                :OBS_0000107
+                :OBS_0000108
+                :OBS_0000109
+                :OBS_0000110
+                :OBS_0000111
+                :OBS_0000112
               )
 ] .
 
@@ -1310,58 +1603,23 @@
   owl:members ( :OBS_0000114
                 :OBS_0000115
                 :OBS_0000116
-                :OBS_0000117
-                :OBS_0000118
-                :OBS_0000119
-                :OBS_0000120
-                :OBS_0000121
               )
 ] .
 
 
 [ rdf:type owl:AllDisjointClasses ;
-  owl:members ( :OBS_0000126
-                :OBS_0000127
+  owl:members ( :OBS_0000123
+                :OBS_0000124
+                :OBS_0000125
+              )
+] .
+
+
+[ rdf:type owl:AllDisjointClasses ;
+  owl:members ( :OBS_0000127
                 :OBS_0000128
                 :OBS_0000129
                 :OBS_0000130
-                :OBS_0000131
-                :OBS_0000132
-                :OBS_0000133
-                :OBS_0000134
-                :OBS_0000135
-                :OBS_0000136
-                :OBS_0000137
-                :OBS_0000138
-                :OBS_0000139
-                :OBS_0000140
-                :OBS_0000141
-                :OBS_0000142
-                :OBS_0000143
-                :OBS_0000144
-                :OBS_0000145
-                :OBS_0000146
-                :OBS_0000147
-                :OBS_0000148
-                :OBS_0000149
-                :OBS_0000150
-                :OBS_0000151
-              )
-] .
-
-
-[ rdf:type owl:AllDisjointClasses ;
-  owl:members ( :OBS_0000153
-                :OBS_0000154
-                :OBS_0000155
-                :OBS_0000156
-                :OBS_0000157
-                :OBS_0000158
-                :OBS_0000159
-                :OBS_0000160
-                :OBS_0000161
-                :OBS_0000162
-                :OBS_0000163
               )
 ] .
 
@@ -1371,15 +1629,6 @@
                 :OBS_0000166
                 :OBS_0000167
                 :OBS_0000168
-              )
-] .
-
-
-[ rdf:type owl:AllDisjointClasses ;
-  owl:members ( :OBS_0000170
-                :OBS_0000171
-                :OBS_0000172
-                :OBS_0000173
               )
 ] .
 
